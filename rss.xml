@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SevillaVa</title>
+    <link>https://www.sevillava.fr</link>
+    <description>Sevilla Va | La référence francophone du Sevilla FC ¡Viva El Sevilla!</description>
+    <language>fr</language>
+    <atom:link href="https://www.sevillava.fr/rss" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Sevilla FC et adidas dévoilent la nouvelle tenue extérieur 2025/26 : un hommage vibrant àux racines</title>
+      <link>https://www.sevillava.fr/tenueexterieur2526</link>
+      <guid>https://www.sevillava.fr/tenueexterieur2526</guid>
+      <pubDate>Wed, 16 Jul 2025 13:00:00 +0200</pubDate>
+      <description>Le Sevilla FC lève le voile sur sa nouvelle tenue extérieure pour la saison 2025/26, conçue en collaboration avec Adidas.</description>
+    </item>
+
+    <item>
+      <title>Billetterie : Le Sevilla FC met en vente les billets pour presque toute la saison 2025/26</title>
+      <link>https://www.sevillava.fr/mercato-sevilla-2025</link>
+      <guid>https://www.sevillava.fr/mercato-sevilla-2025</guid>
+      <pubDate>Wed, 16 Jul 2025 09:00:00 +0200</pubDate>
+      <description>Le Sevilla FC a ouvert ce mardi la billetterie pour presque tous les matchs à domicile de la saison 2025/26 en Liga.</description>
+    </item>
+
+  </channel>
+</rss>
