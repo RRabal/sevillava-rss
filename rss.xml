@@ -7,7 +7,7 @@
     <link>https://www.sevillava.fr</link>
     <description>Sevilla Va | La référence francophone du Sevilla FC ¡Viva El Sevilla!</description>
     <language>fr</language>
-    <atom:link href="https://www.sevillava.fr/rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rrabal.github.io/sevillava-rss/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Sevilla FC et adidas dévoilent la nouvelle tenue extérieur 2025/26 : un hommage vibrant àux racines</title>
